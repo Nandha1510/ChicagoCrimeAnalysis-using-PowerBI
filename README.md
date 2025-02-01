@@ -1,5 +1,5 @@
 # ChicagoCrimeAnalysis-using-PowerBI
-Project Description: Chicago Crime Analysis Dashboard
+**Project Description: Chicago Crime Analysis Dashboard**
 Welcome to the Chicago Crime Analysis Dashboard project! This project is a comprehensive data visualization and analysis tool designed to uncover insights into crime trends, patterns, and hotspots in Chicago. Using Power BI, I have created an interactive and visually appealing dashboard that provides actionable insights for law enforcement agencies, policymakers, and the general public.
 **Project Overview**
 The goal of this project is to analyze crime data from Chicago and present it in a way that is both informative and easy to understand. The dashboard provides a deep dive into various aspects of crime, including:
